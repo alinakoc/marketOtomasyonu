@@ -1,0 +1,11 @@
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\bin\Debug\vizehafta6.exe.config
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\bin\Debug\vizehafta6.exe
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\bin\Debug\vizehafta6.pdb
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\obj\Debug\vizehafta6.csproj.AssemblyReference.cache
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\obj\Debug\vizehafta6.csproj.SuggestedBindingRedirects.cache
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\obj\Debug\vizehafta6.Form1.resources
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\obj\Debug\vizehafta6.Properties.Resources.resources
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\obj\Debug\vizehafta6.csproj.GenerateResource.cache
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\obj\Debug\vizehafta6.csproj.CoreCompileInputs.cache
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\obj\Debug\vizehafta6.exe
+C:\Users\basakaleyna\Desktop\staj\vizehafta6\vizehafta6\obj\Debug\vizehafta6.pdb
